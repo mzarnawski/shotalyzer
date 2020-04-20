@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "/Users/mikolaj/.local/share/virtualenvs/shotalyzer-0e6v5dEh/bin/python"
+    "python.pythonPath": "/Users/mikolaj/.local/share/virtualenvs/shotalyzer-0e6v5dEh/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
