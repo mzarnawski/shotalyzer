@@ -1,0 +1,2 @@
+# shotalyzer
+AWS snapshot analyzer
